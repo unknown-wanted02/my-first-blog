@@ -69,3 +69,25 @@ h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+body {
+    padding-top: 20px;
+    background: #f8f9fa;
+}
+
+.page-header {
+    background-color: #ffcc00;
+    padding: 20px 30px;
+    color: white;
+}
+
+.page-header h1 a {
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+}
+
+.content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
